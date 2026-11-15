@@ -1,21 +1,23 @@
 # Tiago Rocha · Landing page
 
-Landing page de alta conversão para um personal trainer. **Projeto conceitual** de portfólio.
+High-conversion landing page for a personal trainer. **Concept project** for my portfolio.
 
-🔗 **Site:** [tiagorochapersonal.netlify.app](https://tiagorochapersonal.netlify.app)
+🔗 **Website:** [tiagorochapersonal.netlify.app](https://tiagorochapersonal.netlify.app)
 
-## Abordagem
+> The page is in Portuguese, because it targets the Portuguese market.
 
-- Texto estruturado no funil **AIDA**: Atenção, Interesse, Desejo e Ação
-- Mensagem central: treino adaptado à rotina, avaliação inicial gratuita e acompanhamento próximo para manter a consistência
-- Prova social e respostas às objeções antes do pedido de contacto
-- Chamadas para ação diretas para o WhatsApp ao longo da página
-- Página única, leve, responsiva e sem dependências
+## Approach
 
-## Tecnologias
+- Copy structured on the **AIDA** funnel: Attention, Interest, Desire and Action
+- Core message: training adapted to your routine, a free first assessment and close follow-up to stay consistent
+- Social proof and answers to objections before the contact request
+- Direct calls to action to WhatsApp throughout the page
+- Single page, lightweight, responsive and with no dependencies
+
+## Tech stack
 
 HTML · CSS · JavaScript · Copywriting / CRO · Netlify
 
-## Autor
+## Author
 
 **Anderson Frota** · [andersonfrota.netlify.app](https://andersonfrota.netlify.app) · [LinkedIn](https://www.linkedin.com/in/andersongfrota) · [GitHub](https://github.com/AndersonFrotaGoncalves)
